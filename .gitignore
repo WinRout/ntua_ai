@@ -1,0 +1,12 @@
+# python development virtual environment
+venv
+
+# any logs
+*.log
+
+# ipynb checkpoints
+.ipynb_checkpoints
+.DS_store
+
+# zip files
+*.zip
